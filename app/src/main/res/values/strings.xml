@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutor Finder</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_book_tutor">BookTutorActivity</string>
+    <string name="title_activity_message_student_main">MessageStudentMainActivity</string>
+    <string name="title_activity_send_message">SendMessageActivity</string>
+    <string name="title_activity_tutor_home">TutorHomeActivity</string>
+</resources>
